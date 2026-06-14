@@ -189,11 +189,3 @@ Hand Tracking Script
 * Dynamic gesture recognition
 * VR/AR integration
 * Robotic arm control
-
-## Author
-
-Yu-Zhan Wang
-
-Department of Intelligent Computing and Big Data
-
-Chung Yuan Christian University
